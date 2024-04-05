@@ -3,10 +3,10 @@ from pprint import pprint
 import json
 import time
 import openai
-openai.api_key = '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'
+openai.api_key = 
 client = openai.OpenAI(
-    organization='org-RDWc8Ix4q80mbFDQ5lp2OWb2',
-    api_key='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'
+    organization=
+    api_key=
 )
 
 system_prompt0 = "Вы умный помощник компании Qalan, которая продает онлайн курсы по математике на казахском языке. Ваша задача общаться с клиентами и отвечать на их вопросы. "
