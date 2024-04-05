@@ -3,7 +3,7 @@ import openai
 import time
 import json
 import config
-openai.api_key = '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'
+openai.api_key = 
 
 zamorozka = ["заморозка", "зоморозка", "замарозка", "муздану", "мұздану", "муздату", "мұздату", "мұздау", "муздау"]
 
