@@ -131,8 +131,8 @@ import numpy as np
 from scipy import spatial
 import csv
 import os
-os.environ['TRANSFORMERS_CACHE'] = 'C:/Users/ITQALAN12/PycharmProjects/gpt_chat/cache/'
-os.environ['HF_HOME'] = 'C:/Users/ITQALAN12/PycharmProjects/gpt_chat/cache/'
+os.environ['TRANSFORMERS_CACHE'] = 'C:/Users/****/gpt_chat/cache/'
+os.environ['HF_HOME'] = 'C:/Users/****/gpt_chat/cache/'
 #vectorizer1 = Vectorizer()
 vectorizer1 = Vectorizer(pretrained_weights='distilbert-base-multilingual-cased', ensemble_method='average')
 
