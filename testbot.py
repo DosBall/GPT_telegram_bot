@@ -13,8 +13,7 @@ from aiogram.utils.markdown import hbold
 from aiogram.methods.copy_message import CopyMessage
 from asgiref.sync import sync_to_async
 
-TOKEN = '6784402675:AAEbX4Y7cPtdcoQrO-61VOzm4OAbiLzadRw'
-#TOKEN = '6814889723:AAFRmWHB2_2CvJqnr45769r3kSK7IJTDx4M' #Ualihan
+TOKEN = #gpt token
 dp = Dispatcher()
 msg_count = 0
 my_chats = {}
