@@ -3,29 +3,29 @@ import psycopg2
 import pandas as pd
 
 # SSH tunnel setup
-ssh_host = '77.243.81.120'
-ssh_username = 'kuanysh'
-ssh_pkey = "C:/Users/ITQALAN12/PycharmProjects/gpt_chat/pskz_db_ssh_key.txt"  # Path to your private key file
-ssh_pkey_password = 'Arsaman123!'
-remote_bind_address = 'localhost'
+ssh_host = #ip
+ssh_username = #name
+ssh_pkey =  # Path to your private key file
+ssh_pkey_password = 
+remote_bind_address = 
 remote_bind_port = 3306
-local_bind_address = 'localhost'
+local_bind_address = 
 local_bind_port = 8000
 
 # PostgreSQL setup
-db_name = 'math_educator_dev'
-db_username = 'postgres'
-db_password = 'Qaragandy123!'
+db_name = 
+db_username = 
+db_password = 
 
 with SSHTunnelForwarder(
     (ssh_host, 22),
     ssh_username=ssh_username,
     ssh_pkey=ssh_pkey,  # Use your private key for authentication
     ssh_private_key_password=ssh_pkey_password,
-    remote_bind_address=('127.0.0.1', 8080)
+    remote_bind_address=(<ip>, 8080)
 ) as tunnel:
     conn = psycopg2.connect(
-        host='77.243.81.239',
+        host=#<host>,
         port=5432,
         dbname=db_name,
         user=db_username,
