@@ -1,7 +1,7 @@
 import openai
 from pydub import AudioSegment
 import json
-openai.api_key = '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'
+openai.api_key = 
 model_id = 'whisper-1'
 audio_name = "test2"
 mydir = "/home/dosball/audio2text/testaudios/"
