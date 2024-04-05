@@ -7,7 +7,7 @@ from datetime import date
 
 from skllm.models.gpt import ZeroShotGPTClassifier, MultiLabelZeroShotGPTClassifier
 
-smart_chat = "C:/Users/ITQALAN12/Documents/smart_chat/"
+smart_chat = "C:/Users/****"
 
 
 def thread_by_chat(chatid):
