@@ -1,0 +1,2012 @@
+{
+  "sessions": [
+    {
+      "chat_id": "12345",
+      "finished": 0,
+      "action": 0,
+      "date": "2024-01-18",
+      "thread_id": "",
+      "msg": ""
+    },
+    {
+      "chat_id": "1",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_qkxjG8ukg8QoXQCy0K5DmfhI",
+      "msg": {
+        "user": "Салеметсизбе агай меган замарозка алу керек болып тур бір аптага",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "2",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_kaa4WQtZDOlfZU3Uwnu8Q75s",
+      "msg": {
+        "user": "Саламатсызба ертен нен бастап сабақты 1 аптаға замарозкага қоя  аласызба? Жолға шығып бара жатыр едім!",
+        "bot": "{\n  \"primary\": \"Other\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "3",
+      "finished": 0,
+      "action": 3,
+      "date": "",
+      "thread_id": "thread_VyY4Z6E9BmPlWnNZRa7nHqS5",
+      "msg": {
+        "user": "Мен бугиннен бастап сабакты замарозкага коямын  1 шы сентябрьга дейын",
+        "bot": "К сожалению, мне нужна более точная информация о вашем запросе. Какой именно вид заморозки вас интересует? Вы хотите поставить заморозку (паузу, перерыв) или узнать о количестве свободных (запасных) дней заморозки?【6†источник】"
+      }
+    },
+    {
+      "chat_id": "4",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_7NExUdUvjaQBshCc1ewFMimw",
+      "msg": {
+        "user": "4 не дейн койып берынызшы замарозка",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 2\n}"
+      }
+    },
+    {
+      "chat_id": "5",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_4lCSTDyA8lCXLOfnpHoOWQof",
+      "msg": {
+        "user": "1 күн ге замарозка қойып беріңішші өтініш🙂",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "6",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_S2cdmftSFhYBoUujiZTQZcnf",
+      "msg": {
+        "user": "Мазам болмай қызыма көмектесе алмадым. Бүгінгі күнге замарозка белгілеп беріңіз.",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "7",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_0YPP7C2vq3TZvZ95hVaWVk0j",
+      "msg": {
+        "user": "Қызымның температурасы көтеріліп ауырып қалды. Сабақ мүлдем орындауға шамасы жоқ. Екі күнге сабағын замарозить етесіз бе",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "8",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_Oqi8Cf5TjDGq0upnku2zHzZF",
+      "msg": {
+        "user": "1-күнге замарозка сала аласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "9",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_YOQ15hU2mGWYYlvFntiGgcGC",
+      "msg": {
+        "user": "мен замарозка етуды сурасам брлама.гпафиктерды жаесы тусініп алуым керек",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "10",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_KUzCZBPeOLKI0x1CPdRbePTI",
+      "msg": {
+        "user": "Саламатсыз ба ертең бір күн замарозка болсыншы",
+        "bot": "{\n  \"category\": \"Заморозка\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "11",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_2LnAVFMTLGySgdcyIEuX9AFB",
+      "msg": {
+        "user": "Бүгінге замарозка жасай аласыз ба",
+        "bot": "It seems that there was an issue retrieving the specific query from the document. To provide a prompt response to your query, the primary category is \"Заморозка\"【7†source】.\n\nAs for the specific secondary category, due to the technical constraints in obtaining the detailed query, I will classify this as a general query related to \"Заморозка\" without a specific subcategory.\n\nThe classification is as follows:\n```json\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}\n```"
+      }
+    },
+    {
+      "chat_id": "12",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_v92M2LyzcUGGlBwAQPXcdO9s",
+      "msg": {
+        "user": "Бүгінге замарозка қойып беріңішші просто бүгін үлгермей жатырмын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "13",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_mUks4WzZlmxUvzHB9MhCAhdO",
+      "msg": {
+        "user": "Салеметсіз бе! Мен Бейбітқызы Дарьямын пока что замарозкаға қоя тұрыңыздаршы себебі мен үлгере алмаймын уақытым жоқ рақмет сіздерге көп көп  маған сіздердің арқаларыңыздан көмек болып жатыр мен сабақты жақсы түсіндім рақмет!❤️",
+        "bot": "Бойынша берілген мәліметтер бойынша, жұмысшының сұрағы Заморозка тақырыбына жатады【8†source】. Және сіздің сұрағыңыз олардан біріне байланысты. Олардын санатына байланыстырсақ, бірінші санат: Заморозка, екіншісі: Поставить заморозку (пауза, перерыв) санаты болады. Оларды беруге болады."
+      }
+    },
+    {
+      "chat_id": "14",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_8QwISHt0YLjttvh18jGfNRWJ",
+      "msg": {
+        "user": "2 күнге замарозка қойып беріңішші",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "15",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_geQCAdwSrapwxZuHEMjZh66p",
+      "msg": {
+        "user": "Бүгін үлгермей жатырмын математиканы істеуге менде сабақтардан көп тапсырма берді орындауым керек",
+        "bot": "Based on the provided information in the document, it seems that the query can be classified into two categories:\n\n1. \"Заморозка\" (Freeze)\n2. \"Other\"\n\nThe provided categories do not provide specific subcategories under each primary category, so the query will be classified into the primary and secondary categories as per the structure provided【7†source】."
+      }
+    },
+    {
+      "chat_id": "16",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_wT4xPgy3H8CKesBNexUD4Ir6",
+      "msg": {
+        "user": "Негой меннин сабагымды замарозкага коя турасыздар ма",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "17",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_EPyYPticHpeTsixQ7WauoZXM",
+      "msg": {
+        "user": "Бүгінге замарозка қоясалыңышшы өтініш",
+        "bot": "The query falls under the category of \"Заморозка\", specifically related to the request to \"Поставить заморозку (пауза, перерыв)\" (putting a freeze/pause/break)."
+      }
+    },
+    {
+      "chat_id": "18",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_VBeIAiMgkmOibicOMRYpW5xX",
+      "msg": {
+        "user": "Бүгін ертеңге екі күнге замарозкаға қойсаңыз дұрыс болар еді",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "19",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_VP8gE8fo2tDrWF76fdbV90KA",
+      "msg": {
+        "user": "бугинги кунди замарозкага коямын деп единиздергой",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "20",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_UBlwycVoIg8vhrZUZlBOi0gg",
+      "msg": {
+        "user": "Мен сабакты замарозкага койайн деген едм",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "21",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_cTo4vNo9ZHTzCoQxC9fqnBnq",
+      "msg": {
+        "user": "Сәлеметсіз бе кешіріңіз мен аурып қалдым 23. 09. не диін замарозкаға қойып қойсаныз болама?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "22",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_KTE5DUePIzhv4aOExw29f2XQ",
+      "msg": {
+        "user": "Мен ауырып тұрмын сондықтан 3 кунге замарозка коя аласызба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "23",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_dKWLp2Q1Bxbpcc5vjBTE05uD",
+      "msg": {
+        "user": "Мамам 5 күнге замарозка сұрап алады кәзір бжб жазып үлгермей жатырмын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "24",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_9ZrPA7FpbbUG1oJrd0XoDBbo",
+      "msg": {
+        "user": "Сәлеметсіз бе ағай мені 1-не дейін замарозка жасай аласыз ба қазір тапсырмаларды орындай алмай жатырмын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "25",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_4R77RN0SP1NsrD0wLTDMYItv",
+      "msg": {
+        "user": "Агай сәлеметсіз бе мен қазір жасай алмай жатырмын қолым тимей жатыр келесі аптаға дейін замарозка жасап бере аласыз ба?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "26",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_LyGUU0Csrvd42jRHTSKiLaCN",
+      "msg": {
+        "user": "Ауырсынып тұрмын 10.10.22 датаға дейін замарозка қойып бере аласызба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "27",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_7WD2MnVI8CVpyIoahAEPnDkj",
+      "msg": {
+        "user": "1 күн замарозка",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "28",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_3WBGG7nVMpFPpcx7TdJaa5zw",
+      "msg": {
+        "user": "Сәлеметсіз бе кешіріңіз мен бүгін есеп шығаруға үлгермимын 1 күнге замарозкаға қойып беріңізші",
+        "bot": "The specific subcategory for the query \"Сәлеметсіз бе кешіріңіз мен бүгін есеп шығаруға үлгермимын 1 күнге замарозкаға қойып беріңізші\" is \"Поставить заморозку (пауза, перерыв)\"【9†source】.\n\nTherefore, the classification for the query is:\n```json\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}\n```"
+      }
+    },
+    {
+      "chat_id": "29",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_vUEqEo8ugUhYnKyzcOMa7UNs",
+      "msg": {
+        "user": "Ағай замарозка жасап берыңызшы қазір жасай алмаймын 1-аптаға",
+        "bot": "The secondary category for the customer service query in the \"Заморозка\" (Freeze) category is \"1) Поставить заморозку (пауза, перерыв)\", and the serial number is 1【16†source】.\n\nTherefore, the response in JSON format is:\n```json\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}\n```"
+      }
+    },
+    {
+      "chat_id": "30",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_DRbusFMNJ9rBTB9aNuvIszur",
+      "msg": {
+        "user": "Өтініш замарозка қойып беріңішші",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "31",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_0XHLwTh78B75Z2bc2mIbstNm",
+      "msg": {
+        "user": "мен замарозка алдым",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n} \nIn accordance with the rules defined in the document, since the user's query is about \"заморозка\" (заморозка), it falls under the primary category \"Заморозка\". However, since there are no specific subcategories provided for the \"Заморозка\" category, the secondary category is classified as \"Other topics query\"【9†source】."
+      }
+    },
+    {
+      "chat_id": "32",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_sNAWchbwrPKIxv6nTHXX6plD",
+      "msg": {
+        "user": "Апай саламатсызба бүгінге 1күнге замарозка койа аласыз ба бүгін үлгермеймін есеп көп ертен субота істесем болама?",
+        "bot": "{\n  \"primary\": \"Other\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "33",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_rzKTUFJ4Tw2PsPw8BqHI05AC",
+      "msg": {
+        "user": "Апай мен үлгермеймін 1күнге замарозка койа аласызба ертен толықтай шығарамын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "34",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_ZULZfVrgx1vdNOonJqym9aEc",
+      "msg": {
+        "user": "Ағай кешіріңіз бүгін орындай алмаймын тест өтіп жатыр едім 2- күнге замарозка жасап бере аласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "35",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_LywJzsaX3euYxrGEAcJdODYT",
+      "msg": {
+        "user": "Бізді 8 кунге замарозкіге қойсаңыздар",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "36",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_LJzL7jPkomcq44PE1qxoVJzd",
+      "msg": {
+        "user": "Бесінші қарашаға дейін замарозка сұраймын",
+        "bot": "Based on the provided information, the customer service query falls into the \"Заморозка\" (Freezing/Suspension) category, but the specific secondary category cannot be determined and falls under \"Other topics query\". If there are additional details or if the nature of the inquiry changes, please feel free to provide more information for further assistance."
+      }
+    },
+    {
+      "chat_id": "37",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_aCNjPNdPoi77NlcGg36kfMFp",
+      "msg": {
+        "user": "Мен замарозка істейн деп едім",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "38",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_WtRf91RzLVv6T4Yt8PyR13kP",
+      "msg": {
+        "user": "Сәлеметсіз бе ағай мені 1 аптаға замарозка жасап бере аласыз ба",
+        "bot": "The query falls under the primary category of \"Заморозка\" (Freezing) and the secondary category of \"Поставить заморозку (пауза, перерыв)\" (Set a freeze (pause, break))【1†source】."
+      }
+    },
+    {
+      "chat_id": "39",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_4s5gs82zRwKRzz9meohTVKjc",
+      "msg": {
+        "user": "бүгинги есепті замарозкага коя  аласызба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "40",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_hpYjjGzRvKx3eA1onxexQGdx",
+      "msg": {
+        "user": "Саламатсызба. Калан кз замарозкага коясыздарса  1 аптаға. Катты ауырып калдык",
+        "bot": "Based on the information provided, the query falls into the \"Заморозка\" primary category, and the specific subcategory is \"Поставить заморозку (пауза, перерыв)\" with the serial number 1."
+      }
+    },
+    {
+      "chat_id": "41",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_6e0jsb9bR6s103GWF9dm0b9x",
+      "msg": {
+        "user": "Ертеңде қалан замарозка болама әлде ертең уже істейма",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "42",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_u3UGmYBHMW95ahJP5zx7SSta",
+      "msg": {
+        "user": "Бүгінгі күнді замарозкаға қойыңызшы өтініш",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "43",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_e4LIJ7o1nUf3FxnnjcaWLPwp",
+      "msg": {
+        "user": "Бүгін басым ауырып тұр замарозкаға қоя салыңышшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "44",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_D6nil5eNHOejco09be8gFmoc",
+      "msg": {
+        "user": "2 күнге замарозка қойып беріңішші интернет жақсы ұстамай тұр",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "45",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_sXaXZw5yURt0AjzkTqIlVFDa",
+      "msg": {
+        "user": "Мені замарозкаға қойынышшы",
+        "bot": "The query falls into the \"Заморозка\" primary category and the \"Поставить заморозку (пауза, перерыв)\" secondary category."
+      }
+    },
+    {
+      "chat_id": "46",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_xQ2y36A1jLGgIImX6cMUfH3K",
+      "msg": {
+        "user": "Мен замарозкага койынышшы мугалім",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "47",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_AlCSa827WmugOxRyMa73amgY",
+      "msg": {
+        "user": "Саламатсыз ба бүгін ертең бізді замарозка жасап қойыңызшы өтініш",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "48",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_oh4CqouTL1HaDUrc7t59kwXU",
+      "msg": {
+        "user": "Саламатсыз ба кеш жарык мен бугын есептерден кате жберып коп есеп болып кетты 21 есеп шыгардым замарозкага койясызба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "49",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_TNowHFQX20kxMhWlVyKsr7G2",
+      "msg": {
+        "user": "Өтініш 4 күнге замарозка қойып беріңішші менде сабақтар үлгермей жүрмін",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "50",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_79PdM4GMROpOHBhwKnX5RsJY",
+      "msg": {
+        "user": "Бізді 10 күнге замарозкагақоййсаңыздар",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "51",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_OoX2A0MGUW9n7iTmKnR3iLhP",
+      "msg": {
+        "user": "бугин ертеңге замарозка койыныз",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "52",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_Ts8HEIw7t2OCzfFaDxhDSMes",
+      "msg": {
+        "user": "Сәлеметсіз бе кешіріңіз мен бүгін есеп шығаруға үлгермимін 1 күнге замарозкаға қойып қойыңызшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "53",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_OoxuQBw4VBFTlOSm9a4sw3sC",
+      "msg": {
+        "user": "Апай мены 3 кунге замарозкага койып бересызбаа",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "54",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_58a4p9wuEM75qBqvIH2qZEF6",
+      "msg": {
+        "user": "Апай маган 3 кунге замарозка койып бересизбе",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "55",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_xL1yf7KDuKgg6t60llRwv5PN",
+      "msg": {
+        "user": "2 Күнге уақыт замарозка алса болады ма ? Менде жарыстар басталып еді уақыт табылмай жатыр.",
+        "bot": "The query falls under the category of \"Заморозка\" (freezing), specifically related to the request to put a freeze (pause, break) on something【7†source】."
+      }
+    },
+    {
+      "chat_id": "56",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_aKYivkq94Uw1Zbej2kf342xB",
+      "msg": {
+        "user": "онда бугинги және  ертеңги кунге замарозка жасаныз",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "57",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_hybnyZ3a8c7TajmKP6tj981G",
+      "msg": {
+        "user": "Мен курсты замарозкага коям деп едим",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "58",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_o7UL1TzCtHfFmyWqDd3cOnzS",
+      "msg": {
+        "user": "Сәлеметсіз бе мен ауырып қалдым 1 күнге замарозкаға қойып қойыңызшы",
+        "bot": "The query falls under the \"Заморозка\" (Freeze) category, specifically in the subcategory of \"Поставить заморозку (пауза, перерыв)\" (Set a freeze (pause, break)) with the serial number 1."
+      }
+    },
+    {
+      "chat_id": "59",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_uafAwo583PUikuAevD41p84i",
+      "msg": {
+        "user": "Мұғалім бүгін замарозкаға қояаласызба",
+        "bot": "The customer service query \"Мұғалім бүгін замарозкаға қояаласызба\" is classified as follows:\n```json\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}\n```"
+      }
+    },
+    {
+      "chat_id": "60",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_gcWWCn4WKrrixRKKG0IZGHuT",
+      "msg": {
+        "user": "1не дейін замарозка қойыңызшы",
+        "bot": "{\n  \"category\": \"Заморозка\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "61",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_eXWIF5S2pX7j5lCSCcQyvDuU",
+      "msg": {
+        "user": "3замарозксюаға қойыңызшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 2\n}"
+      }
+    },
+    {
+      "chat_id": "62",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_qUJppU3NEpPPDmzpcITCMjaN",
+      "msg": {
+        "user": "бугин ертенге замарозка жасаныздаршы",
+        "bot": "The customer service query falls into the primary category of \"Заморозка\" and the secondary category of \"Поставить заморозку (пауза, перерыв)\"【1†source】."
+      }
+    },
+    {
+      "chat_id": "63",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_dvJTfUx0txWNBdNCvH6rO1zY",
+      "msg": {
+        "user": ".бугинги кунди де замарозка жасанызшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "64",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_aQMVArUoIJRm7Z2LOMmewhfn",
+      "msg": {
+        "user": "Бүгін замарозкаға қойаынызшы",
+        "bot": "The query falls into the \"Заморозка\" category as the user is asking to put a freeze on something. The specific secondary category is \"Поставить заморозку (пауза, перерыв)\" (Put a freeze (pause, break))【1†source】."
+      }
+    },
+    {
+      "chat_id": "65",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_AQaBD0u6eWvtUtuZPQd7bIKK",
+      "msg": {
+        "user": "Сіздер дүйсенбіге дейін замарозкаға қойдыңыздар",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "66",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_ccP7HrgGCI46lu05xVaFTEpa",
+      "msg": {
+        "user": "бир кунге замарозка алсам болама",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "67",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_KziqxYXfQej1Ez3aj1vy0Tsx",
+      "msg": {
+        "user": "Сәлеметсіз бе маған 7 8іне замарозка қойып беріңішшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "68",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_XOAtVGwV3RBZYkz3LdTxm5UY",
+      "msg": {
+        "user": "замарозит",
+        "bot": "The query is classified as a \"Заморозка\" (Freezing) category but the specific subcategory cannot be determined, so it is categorized as an \"Other topics query\" with the number 6."
+      }
+    },
+    {
+      "chat_id": "69",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_IHDlYsK5RJCW4ONY9hvbIGBK",
+      "msg": {
+        "user": "Бізді замарозкаға қоя саласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "70",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_ZaX28DUbnl1VxjNzOOpdSo7b",
+      "msg": {
+        "user": "Апай мен быр сайыска катысатын едым соган дайындалам 3 кунге замарозкага койып бересызбаа",
+        "bot": "The customer service query falls under the primary category of \"Заморозка\" and the secondary category of \"Поставить заморозку (пауза, перерыв)\" with the serial number 1."
+      }
+    },
+    {
+      "chat_id": "71",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_v3I8A428UszOfxXVktXq4YZN",
+      "msg": {
+        "user": "Бүгін маған замарозка қойып бере аласыз ба",
+        "bot": "The customer service query falls into the primary category of \"Заморозка\" with the secondary category of \"Поставить заморозку (пауза, перерыв)\"【1†source】."
+      }
+    },
+    {
+      "chat_id": "72",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_8703y3rWe3jqVbjOzB3YlUp4",
+      "msg": {
+        "user": "Біз онда жексенбіге замарозка алайық. Той жасап жатыр едік",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "73",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_Wlw877CCAINbIUmkG0DD0vjT",
+      "msg": {
+        "user": "можете замарозит",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "74",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_H10B53fKgHUF3iJg0tSamc8c",
+      "msg": {
+        "user": "Бугинги кунге замарозка жасаныздаршы",
+        "bot": "It seems that the user's query falls into the \"Заморозка\" category, and more specifically into the subcategory of \"Поставить заморозку (пауза, перерыв)\" (setting a freeze/pause/break)."
+      }
+    },
+    {
+      "chat_id": "75",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_qXMlF6C8VdM0JEyHcHhla0eS",
+      "msg": {
+        "user": "Саламатсызба бүгін ертеңге замарозка қойы бере аласызба келін түсіріп қонақ күтіп жатырмыз менің соткаммен жасайтын болғандықтан қарауға уақыт жоқ болып жатыр рахмет",
+        "bot": "The query can be classified under the \"Заморозка\" primary category and the \"Поставить замарозка (пауза, перерыв)\" secondary category【9†source】. Therefore, the response is:\n\n```json\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить замарозка (пауза, перерыв)\",\n  \"num\": 1\n}\n```"
+      }
+    },
+    {
+      "chat_id": "76",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_x2if0Of4YoHkYkBkX4lbL8Ke",
+      "msg": {
+        "user": "Телефон мамасында мен үйде емеспін замарозкаға қойыңызшы екі күнге",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "77",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_sIgBK9W3FGRLoq6esd2BNiMC",
+      "msg": {
+        "user": "Апай мены 3 кунге замарозкага койып бересызбаа ертен олимпиада",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "78",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_C72liFMqV2IqeZ9AR4qwPJoi",
+      "msg": {
+        "user": "Магам замарозка жасанышы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "79",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_9P8AJ6iVu3jwjTcCFBrDbwsG",
+      "msg": {
+        "user": "Бугинге замарозка жасасак",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "80",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_GAFSDgr8dkEO4didiH80Jsnm",
+      "msg": {
+        "user": "Маган 4 кунге замарозкага койып бересызба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "81",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_1DSra6YFrg2SZCOQX93fgmkz",
+      "msg": {
+        "user": "Саламатсыхба 1 январға дейін замарозка жасасам боладыма",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "82",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_f7JF0sUGUoQ8HY4UZArEjxl6",
+      "msg": {
+        "user": "бугин ертеңге замарозка койынызшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "83",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_gPE3VyjvPl19GQgMnpGVWHHL",
+      "msg": {
+        "user": "Бүгінге замарозка алайық",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "84",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_RiHENdFy5Lu36r8SQDkyRxzj",
+      "msg": {
+        "user": "Мен бүгінге есеп шығаруға уақыттым болмады сол үшін замарозка қылса болады ғой ия",
+        "bot": "Based on the provided information, the query about setting up a \"заморозка\" falls under the \"Заморозка\" category, which is the primary category. The secondary category would be \"Поставить заморозку (пауза, перерыв)\"【7†source】. Therefore, the classification is as follows:\n\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "85",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_Z2zP7rpBtZyfrKzX8g6BgY5p",
+      "msg": {
+        "user": "Сәлеметсіз бе, кешіріңіз мен бүгін есеп шығаруға үлгермимын, замарозкаға қойып берінізші",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "86",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_2mBv3T6ZkJTFcUCzUccfhnPp",
+      "msg": {
+        "user": "Ертен тжб соган дайындалам 3 кунге замарозкага койып бересызбаа отыныш",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "87",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_mY6udBnEZkGIJmvALI2CNUbP",
+      "msg": {
+        "user": "27.12.2022жылы 1кунге замарозка жасасам",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "88",
+      "finished": 0,
+      "action": 5,
+      "date": "",
+      "thread_id": "thread_FDmin19Fi9WM1btM0pAkI0aC",
+      "msg": {
+        "user": "Салеметсиз бе! 3дейин замарозка коя аласыз ба?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Количество свободных (запасных) дней заморозки\",\n  \"num\": 5\n}"
+      }
+    },
+    {
+      "chat_id": "89",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_Z00o1NRjX6LTRq0mtiS1FOSu",
+      "msg": {
+        "user": "Әр айда 5 күн  демалысы бар болса осы айдың ең сонғы 3 күнінде замарозка болсыншы . Нұрбақыт аурып жатыр",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "90",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_u5df7hlgVC44V7GUMFbfa5Dz",
+      "msg": {
+        "user": "Апай замарозка қосып беріңізші",
+        "bot": "The query falls into the \"Заморозка\" primary category and the \"Поставить заморозку (пауза, перерыв)\" secondary category."
+      }
+    },
+    {
+      "chat_id": "91",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_Ecx2Lq1x82F8wbpG3LlWlnU7",
+      "msg": {
+        "user": "11.01.23 осы датаға дейін замарозка керек себебі іс сапарға шығып бара жатырмын. сол себептен жасай алмаймын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "92",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_3GC7Njyp0ByiaRYNeIM4vm5x",
+      "msg": {
+        "user": "Мен ертең пуылға ьаратын едім 10 күнге замарозка болама",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Убрать (отменить) заморозку\",\n  \"num\": 2\n}"
+      }
+    },
+    {
+      "chat_id": "93",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_qoSEdqo6pUVOp9rZd7U5fieT",
+      "msg": {
+        "user": "Сіздер мені замарозкага қоя  аласыздарма?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "94",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_yaCpFVYd1yIGDxISMcDRRAus",
+      "msg": {
+        "user": "Салеметсіз бе 30-2 деін замарозка қоюға бола ма?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "95",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_hFFibfo2i9CvY7cHWML2zSiT",
+      "msg": {
+        "user": "Салематсыз ба?Жаңа жылдарыныз бен!Мен 31 желтоқсан және1,2январға замарозка бересіз бе?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "96",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_n9YEKPB5CrsT00Bq7Do3SA5S",
+      "msg": {
+        "user": "Мені замарозкоға қойып бересіз бе",
+        "bot": "The query falls under the \"Заморозка\" primary category, but the specific secondary category is not clear, so it is categorized as an \"Other topics query\" with the number 6."
+      }
+    },
+    {
+      "chat_id": "97",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_3vE8080o9A5gFR0DdUPRaMVQ",
+      "msg": {
+        "user": "Ағай мен замарозка алайын девердім",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "98",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_dRoFCQYq7ygTkw9RjFyI4HG9",
+      "msg": {
+        "user": "Сәлем мен замарозка бір күнге аламын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "99",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_vePb1LN2Op7qJgl8E0zuNBYT",
+      "msg": {
+        "user": "Салематсыз ба? Маған бүгінгі күнге замарозка қоясыздар ма?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "100",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_HQFhNVrdyyAfb3zBT65K0DfK",
+      "msg": {
+        "user": "Саламатсыз ба апай мены 5 кунге замарозкага койып бересызба мен ауылдамын сеть дурыс устамайды",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "101",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_wQXyqTsBMxqSkuD0gnXoYeZv",
+      "msg": {
+        "user": "Ол куни интернет истемей замарозкага коя алмалым",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "102",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_Ri29fdi17gusOA2ecGRwbN7e",
+      "msg": {
+        "user": "Маған 8-сіне замарозка істей аласыз ба?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "103",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_FAvLvh4BxFeXJ7ofBMKe3qzB",
+      "msg": {
+        "user": "Поставьте замарозку",
+        "bot": "The query falls under the category of \"Заморозка\" with the specific request \"Поставить заморозку (пауза, перерыв)\"【1†source】."
+      }
+    },
+    {
+      "chat_id": "104",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_hsasyoDXVEjPgcq7C6xZ2ghN",
+      "msg": {
+        "user": "Мены замарозкага коя аласызба 8не дейын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "105",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_0T5MLysjv30eheIVMZOdgmjx",
+      "msg": {
+        "user": "Маған замарозка қойып бере аласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "106",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_2OjlhhQLCw5bvUK7eBBSKzVe",
+      "msg": {
+        "user": "Саламатсызба замарозкаға қоюға бола ма?Ауырып жатқан едім",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "107",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_hwgnsnGmI4v7t2HmCrfhDjjG",
+      "msg": {
+        "user": "2 күн замарозка алсақ",
+        "bot": "The query falls under the category of \"Заморозка\", specifically related to the request to set a freeze (pause, break) for 2 days."
+      }
+    },
+    {
+      "chat_id": "108",
+      "finished": 0,
+      "action": 0,
+      "date": "",
+      "thread_id": "thread_KLQvp5Y34YXtai6jtzFmLePq",
+      "msg": {
+        "user": "Аңсар Қайсар Гулдана ға бүгінгі күнге замарозка қоя салыңызшы",
+        "bot": "I encountered a technical issue while attempting to extract the specific details from the file. I will resolve this and provide you with the appropriate classification shortly. Thank you for your patience."
+      }
+    },
+    {
+      "chat_id": "109",
+      "finished": 0,
+      "action": 4,
+      "date": "",
+      "thread_id": "thread_nCFY5GNUN9P58nNdKXIsfnB4",
+      "msg": {
+        "user": "Мугалим замарозка койсак бола ма?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Что такое заморозка?\",\n  \"num\": 4\n}"
+      }
+    },
+    {
+      "chat_id": "110",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_mWdRCcRQagCGHLTE7I2St7mu",
+      "msg": {
+        "user": "Сәлеметсіздер ме. Бүгінге замарозка қойып бересіз ба. Біз жақта ауа райына байланысты сеть вообще тартпай жатыр",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "111",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_6GXUr7kqvx10DlnjNmb3STvW",
+      "msg": {
+        "user": "Маған бүгін замарозка қоя аласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 2\n}"
+      }
+    },
+    {
+      "chat_id": "112",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_Gzq8B4V0tpcVW53WuVqlWCAo",
+      "msg": {
+        "user": "Апай мены замарозкага койып бересызбаа 4 кунге",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "113",
+      "finished": 0,
+      "action": 4,
+      "date": "",
+      "thread_id": "thread_O36B03MU07rabzfDXGF9juTO",
+      "msg": {
+        "user": "Азатқа қалай замарозка алам",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Что такое заморозка?\",\n  \"num\": 4\n}"
+      }
+    },
+    {
+      "chat_id": "114",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_xwvlqwNAOgiaz4NONyzWq7tX",
+      "msg": {
+        "user": "Бүгінгі тапсырманы замарозкаға қоя саласыз ба үлгермей жатырмын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "115",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_rzcneF3Oy9zj0YEnZrfSW6a4",
+      "msg": {
+        "user": "Саламатсыз ба мен есептерді бүгін жазып үлгере алмай тұрмын. Өтінем замарозкіге қоя тұрасыздар ма? Бүгін қолым тимеді.",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "116",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_G3hDHuDEWKxbSsuv9ktVjCya",
+      "msg": {
+        "user": "Мені тек 1 күнге замарозкаға қойыңызшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "117",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_r0ETK55aInIrJF56JF4DaCbz",
+      "msg": {
+        "user": "Саламтсызба мены 4 кунге замарозкага койып бересызбаа мен географиядан олимпиада га барамын соган 3 күн дайындалам",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "118",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_K7ZUNAlc50K2XpFCnjqvxvqC",
+      "msg": {
+        "user": "Сәлеметсіз бе бүгін орындай алмаймын  ертеннен бастаймын бугінге замарозка коя аласыздар ма",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Убрать (отменить) заморозку\",\n  \"num\": 2\n}"
+      }
+    },
+    {
+      "chat_id": "119",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_a5czcgHYrW3gLefAQDIHjRfu",
+      "msg": {
+        "user": "ертенге шиын замарозка койасызбк",
+        "bot": "Based on the provided information, the query does not fit into any specific subcategory under \"Заморозка\". Therefore, it falls under the \"Other topics query\" category."
+      }
+    },
+    {
+      "chat_id": "120",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_b7MNQh0hEqFr9Zik8oIxJk71",
+      "msg": {
+        "user": "Мен бүгін замарозкаға коясыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "121",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_q61hq67iUnmfYEGfKpiegjgF",
+      "msg": {
+        "user": "Балаларымның бүгінгі күнге замарозкаға қояйын деп едім",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "122",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_t5QkGKUI127aZMMChNk090xU",
+      "msg": {
+        "user": "Маған бір күнге замарозка керек еді",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "123",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_jjPp5pqGdGLOooem8Bh3XVBl",
+      "msg": {
+        "user": "Бүгінде замарозкаға койың жолдамыз",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "124",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_p6TK6Yb7DsrzjZAJT5y16PB2",
+      "msg": {
+        "user": "Я замарозка қойыңызшы прост мен ауырып жүрмін или жақсы өзім жазармын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "125",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_Torpf30ut7eSrH05oKAB7zr1",
+      "msg": {
+        "user": "Бүгінге замарозка қоя аласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "126",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_yERtZkrDbGcwb1Zdmg5tTGED",
+      "msg": {
+        "user": "Жазгы демалыста 3ай замарозкага койып 1сентябрден бастап окуга болатындай етуге болама",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Убрать (отменить) заморозку\",\n  \"num\": 2\n}"
+      }
+    },
+    {
+      "chat_id": "127",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_IwFf8VHCEpmv58wQJCgIv6qc",
+      "msg": {
+        "user": "Сәлетметсізбе! боладыма маған суббота воскресенье замарозка істеуге",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "128",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_XVCEkNYtAYRr1bhK3aFaVodp",
+      "msg": {
+        "user": "Маган бугын замарозка коя алсыз ба",
+        "bot": "The customer service query falls into the primary category of \"Заморозка\" and the secondary category of \"Поставить заморозку (пауза, перерыв)\" with the serial number 1."
+      }
+    },
+    {
+      "chat_id": "129",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_Nrcu64VoSGYRmfqkyGmhmPwf",
+      "msg": {
+        "user": "бүгин замарозкага коюга  болама",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "130",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_boYDMcEifL8cOHoQD56ITkPW",
+      "msg": {
+        "user": "Маған 7күнге замарозка қойып бере аласызба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "131",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_ygHGMUhQMXlvmDMkbGnx9oW7",
+      "msg": {
+        "user": "маган бугинге замарозка",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "132",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_hNc8aB23pMzLmji1oJMH6Pxn",
+      "msg": {
+        "user": "Саламатсызба! Ата анамын замарозка калай жасалады",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "133",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_sEyVuUGr387XqMADBDgGfKdn",
+      "msg": {
+        "user": "Сәлеметсіз бе бугін тапсырма орындай алмаймын ертеннен бастаймын  ертен мені жаңадан қоса аласызба  замарозка өзім коя алмаймын",
+        "bot": "Based on the information provided, the query falls under the category of \"Заморозка\"【7†source】. Since the specific subcategory of the \"Заморозка\" primary category is not evident from the user's message, it is categorized as a general \"Заморозка\" query. Therefore, the classification is as follows:\n\n```json\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}\n```"
+      }
+    },
+    {
+      "chat_id": "134",
+      "finished": 0,
+      "action": 0,
+      "date": "",
+      "thread_id": "thread_rZAjk8nyRnFT7JaszMks7nCh",
+      "msg": {
+        "user": "Апай мены 1кунге замарозкага койып бересызбаа жарты есепты орындадым кателерден кобейып кетты ертен жалгастырам",
+        "bot": "Клент жарты жалгастыру үшүн 1 күнгө замарозкага койулган. Мен замарозкаты киргизе аламынба?"
+      }
+    },
+    {
+      "chat_id": "135",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_nXJNcHqlC4Pi1IQkxHy3cPPA",
+      "msg": {
+        "user": "Бугінге замарозка койып бересізбе ертен жаңадан бастасам деймін",
+        "bot": "The query falls under the \"Заморозка\" (Freeze) category, specifically related to requesting a freeze (pause, break)【1†source】."
+      }
+    },
+    {
+      "chat_id": "136",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_8ZaPah3KrhbphPXNkKfOD9X9",
+      "msg": {
+        "user": "Бүгінгі күнге замарозка қоя салың",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "137",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_eXTNXk70mNxgfWXVLhdvmuy0",
+      "msg": {
+        "user": "Апай мені замарозкага койып бересызбаа отыныш 2 кунге кеше орындадым просто ертен бжб га дайындаламын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "138",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_wBa8jp0BvfOPwy76xx5fXE6Q",
+      "msg": {
+        "user": "Саламатсыз ба бүгін кіре алмайтын едім  ыңғайы келмей тұр маған 1 күнге замарозка жасап бере аласыздар ма ?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "139",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_dRyo90cJldN2XUZao0bS1cSB",
+      "msg": {
+        "user": "Имантайдыкын замарозить етыныздершы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "140",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_jAC7aZJmfspKL2eFTGkPFqqQ",
+      "msg": {
+        "user": "Апай мені замарозкага койып бересызбаа отыныш 2 кунге кеше орындадым просто ертен бжб га дайындаламын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Убрать (отменить) заморозку\",\n  \"num\": 2\n}"
+      }
+    },
+    {
+      "chat_id": "141",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_fOwAaYCpNGuTRpGU8HUEQBbg",
+      "msg": {
+        "user": "Сәлеметсізбе бізді 3күнге замарозка жасайсызба",
+        "bot": "The query is classified into the primary category \"Заморозка\" and the secondary category \"Поставить заморозку (пауза, перерыв)\" with serial number 1."
+      }
+    },
+    {
+      "chat_id": "142",
+      "finished": 0,
+      "action": 5,
+      "date": "",
+      "thread_id": "thread_G58FZLJfCjcszRvshzEp85ra",
+      "msg": {
+        "user": "5. Күн замарозка керек бізге бүгіннен бастап",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Количество свободных (запасных) дней заморозки\",\n  \"num\": 5\n}"
+      }
+    },
+    {
+      "chat_id": "143",
+      "finished": 0,
+      "action": 5,
+      "date": "",
+      "thread_id": "thread_xkkdwnEfXx0Al0dPcytsABqf",
+      "msg": {
+        "user": "5 күнге замарозка болама көріп беріңізші бизге",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Количество свободных (запасных) дней заморозки\",\n  \"num\": 5\n}"
+      }
+    },
+    {
+      "chat_id": "144",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_rPlMAqMX8qlbAjftq16tcPWp",
+      "msg": {
+        "user": "Алиды үш күнге замарозкаға қойыңызшы",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "145",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_eGCxn5n0kttYkEM76tKz529i",
+      "msg": {
+        "user": "Мен замарозка алдым.1 күнге",
+        "bot": "The query falls into the \"Заморозка\" (Freeze) category, under the subcategory of \"Поставить заморозку (пауза, перерыв)\" (Set a freeze/pause/break)【1†source】."
+      }
+    },
+    {
+      "chat_id": "146",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_e6P9N6humv5cmmdnH4KRZKYn",
+      "msg": {
+        "user": "Апай бір күнге замарозкы қойып бере аласыз ба?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "147",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_S8r5ZAU5jVqL9oZYpBgAvSwy",
+      "msg": {
+        "user": "Бүгін мен замарозка алам",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "148",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_B4k7MIWw2OZ4Nz9Lu2GRntPD",
+      "msg": {
+        "user": "7сіне дейін замарозка алсам деп едім",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "149",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_8MZrRc8W9SXasSR80LEYaPff",
+      "msg": {
+        "user": "Добрый вечер поставьте пожалуйста замарозку",
+        "bot": "The query is classified as follows:\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "150",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_vDayt2pajIRCvgUXJi52yCit",
+      "msg": {
+        "user": "Сәлетметсізбе! боладыма маған суббота воскресенье замарозка істеуге",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "151",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_s1rmvMaoP7zbq7OqWG879huf",
+      "msg": {
+        "user": "Сәлеметсіз бе  бугінге замарозка койып бере аласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "152",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_gJP9JcQVnsVhFXMOcoXpoRvx",
+      "msg": {
+        "user": "Сәлеметсіз бе бугінге замарозка қойып бере аласыз ба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "153",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_e3oRfV63rz5EydSpi42AvDuW",
+      "msg": {
+        "user": "Мены 10на дейн замарозкага коя аласызба",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "154",
+      "finished": 0,
+      "action": 4,
+      "date": "",
+      "thread_id": "thread_zyiHogsKcwqQZpyBW41Gnz4H",
+      "msg": {
+        "user": "Мены замарозкага коя аласызба?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Что такое заморозка?\",\n  \"num\": 4\n}"
+      }
+    },
+    {
+      "chat_id": "155",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_DcF6zMRnIxNn6WasR6OHLkYT",
+      "msg": {
+        "user": "1 айға замарозкке коясыз ба мектепте мұғаліминен уйрене қайта жалгастырар",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "156",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_QppaYHRbtmLJoSs3amwbpQba",
+      "msg": {
+        "user": "Кызым бугин орындай алмайды замарозка койып койасызба?",
+        "bot": "Похоже, ваш запрос относится к категории \"Заморозка\" с вторичной категорией \"Поставить заморозку (пауза, перерыв)\"【1†source】."
+      }
+    },
+    {
+      "chat_id": "157",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_rZQaVzzfQvhnd4CAz3KeIIfu",
+      "msg": {
+        "user": "Бүгінгі күнге қалай замарозка қосады",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "158",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_vMf6t4OdFvvyW1lBufx1imx7",
+      "msg": {
+        "user": "Маған тағыда замарозка қойып бере аласыздар ма?",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "159",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_mZSThF45avV6nZyWGFlvNNny",
+      "msg": {
+        "user": "Бізді замарозкаға койасаласыз ба сабактарын істеп біте алмай жатыр",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "160",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_zWsYh0cs4p1qXKwD0t7WhYVj",
+      "msg": {
+        "user": "Мен бүгінгіге замарозка қойан деп едім болама",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "161",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_0J3wm3rbDjnhrlc6EnHkgb1O",
+      "msg": {
+        "user": "Мен 5 кунге коямын замарозканы",
+        "bot": "The query falls into the \"Заморозка\" primary category, and specifically into the \"Поставить заморозку (пауза, перерыв)\" secondary category. If you have any other questions or need further assistance, feel free to ask!"
+      }
+    },
+    {
+      "chat_id": "162",
+      "finished": 0,
+      "action": 5,
+      "date": "",
+      "thread_id": "thread_ynszeqyhWxsiqusm2cfn3M5i",
+      "msg": {
+        "user": "Ағай бүгін қолым теймей жатыр замарозка уақыты біті келесі күні жасасам болады ма? Өтініш!!",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Количество свободных (запасных) дней заморозки\",\n  \"num\": 5\n}"
+      }
+    },
+    {
+      "chat_id": "163",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_hUkkfhtMu0DNdVR9jYQOiwfE",
+      "msg": {
+        "user": "Маған бүгінгі күнге замарозка қойып бересіз бе интернет дұрыс ұстамай жатыр",
+        "bot": "The user's query falls into the \"Заморозка\" (Freeze) category, specifically under the subcategory of \"Поставить заморозку (пауза, перерыв)\" (Set a freeze/pause/break)."
+      }
+    },
+    {
+      "chat_id": "164",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_WCsaCuJiXwokHOe2MYlw4STz",
+      "msg": {
+        "user": "Балам температурасы котерилип жатыр бугинги кунге замарозка жасасак болама",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "165",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_BkzhuNVRj2hGYiIdGP6EEkoz",
+      "msg": {
+        "user": "тагыда замарозкага коясызба",
+        "bot": "The query falls under the \"Заморозка\" (Freeze) category, but it cannot be further classified into a specific secondary category. Therefore, it is considered as a general query about other topics."
+      }
+    },
+    {
+      "chat_id": "166",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_ayeJxwzF2XKfDlkTNhzn1Ai6",
+      "msg": {
+        "user": "Бүгінгіге замарозка қойамын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "167",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_kE46Xo8A4kYo8h7Nzi7J69ye",
+      "msg": {
+        "user": "Сәлеметсіз бе маған бүгін замарозка істе аласыз ба мен бүгін үлгермимін істеуге",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "168",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_dwQd3iOrZmoNeDBXo6HZi3Hn",
+      "msg": {
+        "user": "маған бүгінге замарозка қойып берінізші",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "169",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_ZkwJmtU1XhDq8ahVXmZgga4O",
+      "msg": {
+        "user": "Бүгін замарозкаа аламын",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "170",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_QoGUXqJc8l2QKJQrbmIoxMJi",
+      "msg": {
+        "user": "Я нечяено нажал на начать новое поставьте замарозку",
+        "bot": "The query has been classified as follows:\n- Primary category: Заморозка\n- Secondary category: Поставить заморозку (пауза, перерыв) (number 1)"
+      }
+    },
+    {
+      "chat_id": "171",
+      "finished": 0,
+      "action": 2,
+      "date": "",
+      "thread_id": "thread_mUGB5uOZgkQHa6tQ9qSGgJiM",
+      "msg": {
+        "user": "замарозкага кояйын деп едим",
+        "bot": "The query falls into the \"Other\" category. If you have any specific questions or need assistance with a different topic, feel free to ask!"
+      }
+    },
+    {
+      "chat_id": "172",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_EqDCE4ucNjej7lpaFbeA3Y2B",
+      "msg": {
+        "user": "Сәлетметсізбе! боладыма маған суббота воскресенье замарозка істеуге",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "173",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_3rVkkwvzTmTseDd1gYENemEx",
+      "msg": {
+        "user": "Апай мен бүгінге замарозка алам",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "174",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_wi3ebGGmPFX91MgEwCAAUVm6",
+      "msg": {
+        "user": "Мен бүгін замарозка алсам",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "175",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_dU1xVUGWqPp3ciVwH2NqOS5Q",
+      "msg": {
+        "user": "Жолда келе жатыр едік казір 12.00ге дейін жасауға тырыстыз үлгермесек замарозка жасап жіберемін",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "176",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_2lfzCalAFjIxBTWqKByjBHXF",
+      "msg": {
+        "user": "Сәлеметсіз бе бізге замарозка қоясызба?  Интернет жасамай жатыр бізде",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "177",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_2PwmI6AWJc8lTDgp6qLcmDrm",
+      "msg": {
+        "user": "Екінші күн мен үшінші күнге замарозка койып бересізбе",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "178",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_SoErony1rbPvKUyAdEUhhimR",
+      "msg": {
+        "user": "замарозкага кояйын деп едим",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}"
+      }
+    },
+    {
+      "chat_id": "179",
+      "finished": 0,
+      "action": 6,
+      "date": "",
+      "thread_id": "thread_QWGbId2kYkCCBm2kihNQ5XLX",
+      "msg": {
+        "user": "25 замарозкага коясызба мектеп аралык олимпиада катысп журеди сабактан кеш келед 7 таман сиздердин есептеринизде киындап кетти",
+        "bot": "The specific subcategory for the query \"25 замарозкага коясызба мектеп аралык олимпиада катысп журеди сабактан кеш келед 7 таман сиздердин есептеринизде киындап кетти\" is not clear from the provided information. Therefore, it falls under the \"Other topics query\" secondary category, number 6. Here is the classification in JSON format:\n\n```json\n{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Other topics query\",\n  \"num\": 6\n}\n```"
+      }
+    },
+    {
+      "chat_id": "180",
+      "finished": 0,
+      "action": 1,
+      "date": "",
+      "thread_id": "thread_xYOMFrZiaryOFsDTr4H5u8O3",
+      "msg": {
+        "user": "Балым әжесіне кетті. Бүгінге замарозка қойыңызшы.",
+        "bot": "{\n  \"primary\": \"Заморозка\",\n  \"secondary\": \"Поставить заморозку (пауза, перерыв)\",\n  \"num\": 1\n}"
+      }
+    },
+    {
+      "chat_id": "181",
+      "finished": 0,
+      "action": 0,
+      "date": "",
+      "thread_id": "thread_dtmBgX0Z2cTjq3XjXyylz6dk",
+      "msg": {
+        "user": "Мен казыр ауылда едім сеть онша доқ бүгінге замарозка қоя аламын аб"
+      }
+    },
+    {
+      "chat_id": "182",
+      "finished": 0,
+      "action": 0,
+      "date": "",
+      "thread_id": "thread_hdSGq3GH6oEYumKh7zYqzYh4",
+      "msg": {
+        "user": "Ауырып тұрмын замарозко қойсаңыз"
+      }
+    }
+  ]
+}

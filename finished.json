@@ -1,0 +1,36 @@
+{
+  "sessions": [
+    {
+      "chat_id": "12345",
+      "finished": 0,
+      "action": 0,
+      "date": "2024-01-18",
+      "thread_id": "",
+      "msg": ""
+    },
+    {
+      "chat_id": "2",
+      "finished": 0,
+      "action": 6,
+      "date": "2024-01-22",
+      "thread_id": "thread_5zdhw1jqmrZCZ9DV0jMhwnwt",
+      "msg": "Салеметсизбе"
+    },
+    {
+      "chat_id": "3",
+      "finished": 0,
+      "action": 0,
+      "date": "2024-01-22",
+      "thread_id": "thread_CovLVuZLeOP5QUO9ODCcCy7x",
+      "msg": "Иә жақсы"
+    },
+    {
+      "chat_id": "4",
+      "finished": 0,
+      "action": 0,
+      "date": "2024-01-22",
+      "thread_id": "thread_R8AbVb5YyG4WjNzkd6Z7WiE4",
+      "msg": "жоқ, бұл бәрі емес"
+    }
+  ]
+}
