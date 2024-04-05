@@ -7,10 +7,10 @@ import assistants
 import config
 from pprint import pprint
 
-openai.api_key = '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'
+openai.api_key =
 client = openai.OpenAI(
-    organization='org-RDWc8Ix4q80mbFDQ5lp2OWb2',
-    api_key='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'
+    organization=
+    api_key=
 )
 file_id = 'file-vffMM1knuKo4irsEENB0FdnC'
 #file_id = 'file-jBkm06LSoBxirRbgtTqQQiBi'#классификатор
